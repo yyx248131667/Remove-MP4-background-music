@@ -1,1 +1,4 @@
-# Remove-MP4-background-music
+使用方式：
+python -m venv venv
+.\venv\Scripts\activate
+pip install moviepy
